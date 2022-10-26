@@ -1,0 +1,85 @@
+﻿/* Html */
+.btn-primary, .btn-primary:hover, .btn-success, .btn-success:hover {
+    background-color: #64A1B9;
+    border-color: #64A1B9;
+    color: #fff;
+}
+
+.text-primary, a.text-primary {
+    color: #64A1B9;
+}
+
+#header .branding .logo {
+    padding-top: 40px;
+}
+
+/* Navigation */
+.dropdown-menu > .active > a, .dropdown-menu > .active > a:focus, .dropdown-menu > .active > a:hover {
+    background-color: #64A1B9 !important;
+}
+
+.btn-primary:hover {
+    background-color: #64A1B9 !important;
+}
+
+/* Helpers */
+.primary-font {
+    font-family: "jaf-bernina-sans-condensed", Verdana !important;
+    font-weight: 300;
+}
+
+.secondary-font {
+    font-family: "nimbus-sans",sans-serif !important;
+}
+
+.more a, .body a {
+    color: #64A1B9;
+}
+
+a.more {
+    color: #64A1B9;
+}
+
+
+/*==========  Non-Mobile First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+    #header .branding .logo {
+        padding-top: 60px;
+    }
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+    #header .branding .logo {
+        padding-top: 90px;
+    }
+
+    .navbar-brand .logo {
+        height: 35px;
+    }
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+    #footer .logo {
+        height: 40px;
+    }
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (max-width : 480px) {
+    .navbar-brand .logo {
+        padding-top: 11px;
+    }
+
+    #footer .social-media {
+        display: none;
+    }
+}
+
+/* Custom, iPhone Retina */ 
+@media only screen and (max-width : 320px) {
+        
+}

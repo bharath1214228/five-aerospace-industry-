@@ -1,0 +1,64 @@
+﻿div.empty {
+    border: none !important;
+}
+
+div.empty > span {
+    display: none;
+}
+
+#form-client {
+    padding-top: 20px;
+}
+
+div.form-group + span.drop-hint {
+    display: none;
+}
+
+div[data-payment] {
+    display: none;
+}
+
+#form-client.hide-labels label:not(label.always-display) {
+    display: none;
+}
+
+.form-group.required .control-label:after {
+    content: " *";
+    color: red;
+}
+
+label.option-label {
+    display: inline-block !important;
+    /*margin-top: -15px !important;*/
+    /*margin-left: 18px;*/
+}
+
+#form-client.hidden-labels label.control-label:not(.always-display) {
+    display: none;
+}
+
+
+
+#form-client:not(.hidden-labels) .control-group:not([data-percentage="True"]) input::-webkit-input-placeholder { /* WebKit browsers */
+    color: #fff;
+}
+
+
+#form-client:not(.hidden-labels) .control-group:not([data-percentage="True"]) input:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color: #fff;
+    opacity: 1;
+}
+
+#form-client:not(.hidden-labels) .control-group:not([data-percentage="True"]) input::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color: #fff;
+    opacity: 1;
+}
+
+#form-client:not(.hidden-labels) .control-group:not([data-percentage="True"]) input:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color: #fff;
+}
+
+.subscription div.control-group.qualified .control-label:after {
+    content: " *";
+    color: red;
+}

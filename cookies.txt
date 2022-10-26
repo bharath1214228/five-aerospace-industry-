@@ -1,0 +1,21 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+www.aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	ASP.NET_SessionId	mvi4fyqcumvd5vo1tfmg0usb
+aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	pid	427304784
+www.aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	ARRAffinity	ba984456bbdb606d71802ced9aa5a9d5c14ea19e701dc240dfea286e161a5eea
+www.aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	ba984456bbdb606d71802ced9aa5a9d5c14ea19e701dc240dfea286e161a5eea
+www.aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	SameSite	None
+isirc.gie.net	TRUE	/	FALSE	1999999999	ARRAffinity	ba984456bbdb606d71802ced9aa5a9d5c14ea19e701dc240dfea286e161a5eea
+isirc.gie.net	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	ba984456bbdb606d71802ced9aa5a9d5c14ea19e701dc240dfea286e161a5eea
+isirc.gie.net	TRUE	/	FALSE	1999999999	SameSite	None
+www.aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	__RequestVerificationToken	tp4DJbeXLziaNg8-TN4IBpLpKbH9Sylj07dqdvJIpsPzX3_R5KeK7-pYBkE9raTnCWeMQMu1YsGeKlKHSzipYDGNVAyUSO3iy6_EIFOGT9s1
+giecdn.azurewebsites.net	TRUE	/	FALSE	1999999999	ARRAffinity	ba984456bbdb606d71802ced9aa5a9d5c14ea19e701dc240dfea286e161a5eea
+giecdn.azureedge.net	TRUE	/	FALSE	1999999999	ARRAffinitySameSite	ba984456bbdb606d71802ced9aa5a9d5c14ea19e701dc240dfea286e161a5eea
+giecdn.azurewebsites.net	TRUE	/	FALSE	1999999999	SameSite	None
+aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	gvp-33351272	357092
+aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	gvp-33351147	357093
+aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	gvp-33350675	357094
+aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	gvp-33348462	357095
+aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	gvp-33347915	357096
+aerospacemanufacturinganddesign.com	TRUE	/	FALSE	1999999999	gvp-33347625	357097
+
